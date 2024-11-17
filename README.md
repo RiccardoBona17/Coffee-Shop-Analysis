@@ -1,4 +1,5 @@
-# EXCEL DATA ANALYSIS PROJECT
+# EXCEL DATA ANALYSIS PROJECT ![excel](https://github.com/user-attachments/assets/d790680a-dad6-45a1-b72d-b19bce91790e)
+
 
 ## Context
 
