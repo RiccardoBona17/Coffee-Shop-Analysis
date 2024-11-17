@@ -4,7 +4,7 @@
 
 You've recently become a franchise owner at _Maven Rosters_, a coffee shop chain with three locations in New York City.
 
-To better understand purchase behaviour and streamline operations, you've collected transactional data from January - June 2023 (dataset can be found here: https://mavenanalytics.io/data-playground?pageSize=10).
+To better understand purchase behaviour and streamline operations, you've collected transactional data from January - June 2023 (dataset kindly provided by https://mavenanalytics.io/).
 
 **YOUR GOAL** is to transform the data into a dynamic dashboard that franchise owners can use to identify patterns, trends and opportunities for the business.
 
