@@ -1,5 +1,4 @@
-# EXCEL DATA ANALYSIS PROJECT ![excel](https://github.com/user-attachments/assets/d790680a-dad6-45a1-b72d-b19bce91790e)
-
+# EXCEL DATA ANALYSIS PROJECT [![MicrosoftExcel](https://cdn3.emoji.gg/emojis/1938_MicrosoftExcel.png)](https://emoji.gg/emoji/1938_MicrosoftExcel)
 
 ## Context
 
